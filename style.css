@@ -1,0 +1,23 @@
+h1 {
+    background-color: #ccd5ae;
+    padding: 10px;
+    padding-left: 30px;
+}
+
+body {
+    background-color: #e9edc9;
+    font-family: Nunito;
+}
+
+.links {
+    font-size: 20px;
+    padding: 3px;
+}
+
+a:link{
+    color: #283618;
+}
+
+a:hover{
+    color: #606c38;
+}
